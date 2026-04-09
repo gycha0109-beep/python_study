@@ -1,7 +1,11 @@
 def plus(N):
-    for i in range(1, N+1, 1):
-        i += i
-    return i
+    i = 1
+    total = 0
+    while i <= N:
+        total += i
+        i += 1
+    return total
+
 
 num = int(input())
 A = plus(num)
