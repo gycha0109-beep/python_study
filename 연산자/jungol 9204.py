@@ -1,0 +1,8 @@
+﻿A = int(input())
+B = int(input())
+C = int(input())
+D = int(input())
+E = int(input())
+F = int(input())
+G = int(input())
+print(f"{A+2} {B-2} {C*2} {D/2} {E//2} {F%2} {G**2}")
