@@ -14,3 +14,7 @@ while index < len(N):
     square -= 1
 
 print(total)
+
+""" n, b = input().split()  # int의 두번째 파라미터 값으로                      
+print(int(n, int(b)))         들어가는 숫자는 진법을 의미한다
+ """

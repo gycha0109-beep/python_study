@@ -1,0 +1,8 @@
+A  = int(input('수를 입력하시오. '))
+B  = int(input('수를 입력하시오. '))
+print(f"{A} + {B} = {A+B}")
+print(f"{A} - {B} = {A-B}")
+print(f"{A} * {B} = {A*B}")
+print(f"{A} // {B} = {A//B}")
+print(f"{A} % {B} = {A%B}")
+print(f"{A} ** {B} = {A**B}")

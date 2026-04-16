@@ -1,0 +1,6 @@
+name, H, W = input().split()
+H = int(H)
+W = float(W)
+print(f'name: {name}')
+print(f'height: {H}')
+print(f'weight: {W}')

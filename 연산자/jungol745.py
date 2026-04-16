@@ -1,0 +1,6 @@
+N = int(input())
+M = int(input())
+print(f'{N} > {M} --- {N>M}')
+print(f'{N} < {M} --- {N<M}')
+print(f'{N} >= {M} --- {N>=M}')
+print(f'{N} <= {M} --- {N<=M}')
