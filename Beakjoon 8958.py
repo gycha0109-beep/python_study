@@ -3,7 +3,7 @@ TC = int(input())
 total = 0
 Plus_O = 0
 for OX in range(1, TC+1):   
-    banbock = str(input())
+    banbock = input()
     
 for i in OX[0:len(OX)]:
     if str(i) == 'O':
